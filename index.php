@@ -26,6 +26,7 @@ else
 <p> <?php echo 'привет, '.$name ?></p>
 <a href="page.php"> Page page.html</a>
 <br>
+<p>fsdfdddddddddddddddddddddddddddddddddddddddddddddd</p>
 <form  method="post">
 <input type="text" name="name"/>
 <input type="submit" value="Submit"/>
